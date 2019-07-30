@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="#ffffff" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="5dp" >
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </TabWidget>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="40dp" >
+
+                        <TextView
+                            android:id="@+id/textView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/linearLayout1"
+                            android:layout_toLeftOf="@+id/button_send"
+                            android:text="Connected to :"
+                            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                        <TextView
+                            android:id="@+id/kisai_txt_device_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBaseline="@+id/textView1"
+                            android:layout_alignBottom="@+id/textView1"
+                            android:layout_alignLeft="@+id/button_send"
+                            android:layout_marginLeft="26dp"
+                            android:text="Device name"
+                            android:textAppearance="?android:attr/textAppearanceMedium" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/linearLayout1"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="40dp" >
+
+                        <Button
+                            android:id="@+id/btn_connect"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="CONNECT"
+                            android:textSize="10sp" />
+
+                        <Button
+                            android:id="@+id/btn_discoverable"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="DISCOVERABLE"
+                            android:textSize="10sp" />
+
+                        <Button
+                            android:id="@+id/btn_disconnect"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="DISCONNECT"
+                            android:textSize="10sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_calc"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/linearLayout2"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="40dp"
+                        android:visibility="gone" >
+
+                        <EditText
+                            android:id="@+id/editText_first"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/button_execute"
+                            android:layout_toLeftOf="@+id/button_execute"
+                            android:layout_weight="1"
+                            android:ems="10"
+                            android:inputType="number" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="  "
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/editText_second"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@+id/linearLayout2"
+                            android:layout_below="@+id/linearLayout2"
+                            android:layout_weight="1"
+                            android:ems="10"
+                            android:inputType="number" />
+                    </LinearLayout>
+
+                    <FrameLayout
+                        android:id="@android:id/tabcontent"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/linearLayout_calc"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp" >
+                    </FrameLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_operation"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@android:id/tabcontent"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp"
+                        android:visibility="gone" >
+
+                        <RadioGroup
+                            android:id="@+id/radiogroup"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" >
+
+                            <RadioButton
+                                android:id="@+id/radio_add"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Add"
+                                android:textColor="@android:color/white" />
+
+                            <RadioButton
+                                android:id="@+id/radio_mul"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Mul"
+                                android:textColor="@android:color/white" />
+                        </RadioGroup>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_execute"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/linearLayout_operation"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                         >
+
+                        <Button
+                            android:id="@+id/button_execute_server"
+                            android:layout_width="0dp"
+                            android:layout_weight="33"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginBottom="18dp"
+                            android:text="Execute in Server"
+                            />
+
+                        <Button
+                            android:id="@+id/button_execute_client"
+                            android:layout_width="0dp"
+                            android:layout_weight="33"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginBottom="18dp"
+                            android:text="Execute in Client" />
+                        
+                        <Button
+                            android:id="@+id/button_show_result"
+                            android:layout_width="0dp"
+                            android:layout_weight="33"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginBottom="18dp"
+                            android:text="Graphical View"
+                            android:visibility="visible" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_result"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/linearLayout_execute"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="4dp"
+                        android:visibility="gone" >
+
+                        <EditText
+                            android:id="@+id/editText_server_res"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/button_execute"
+                            android:layout_toLeftOf="@+id/button_execute"
+                            android:layout_weight="1"
+                            android:ems="10" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="---------------"
+                            android:textSize="20sp"
+                            android:textStyle="bold" />
+
+                        <EditText
+                            android:id="@+id/editText_client_res"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@+id/linearLayout2"
+                            android:layout_below="@+id/linearLayout2"
+                            android:layout_weight="1"
+                            android:ems="10" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/linearLayout_result1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/linearLayout_result"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="4dp"
+                        android:visibility="gone" >
+
+                        <TextView
+                            android:id="@+id/tv_res"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="---------------"
+                            android:textSize="20sp"
+                            android:textStyle="bold"
+                             />
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</TabHost>

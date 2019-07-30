@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-mdpi_crate.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-mdpi/crate.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_c_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_c_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_2d.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_2d.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_upload.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/upload.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_vm_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_vm_w.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_pi_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_pi_w.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_device_list.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-mdpi_glass.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-mdpi/glass.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_image.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/image.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_3d_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_3d_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_gra.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/gra.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_circle2.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/circle2.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_login_dialog.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/login_dialog.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_eye_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_eye_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_gc.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/gc.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_main1.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/main1.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_main_act.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/main_act.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_bg.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_cardio_progress_box_down.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/cardio_progress_box_down.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_icon_auto.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/icon_auto.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_bac.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/bac.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_header1.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/header1.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_eye_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_eye_w.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_pi_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_pi_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_vm_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_vm_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_3d.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_3d.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_arc.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/arc.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_javascript.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/javascript.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_c_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_c_w.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_settings.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/settings.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_share.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_misc.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_misc.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-hdpi_glass.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-hdpi/glass.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-ldpi_crate.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-ldpi/crate.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_vm.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_vm.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-ldpi_glass.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-ldpi/glass.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-hdpi_crate.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-hdpi/crate.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_2d_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_2d_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_c.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_c.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_map.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/map.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_device_name.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_auto.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-mdpi/icon_auto.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_text.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/text.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon_auto.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-hdpi/icon_auto.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_misc_b.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_misc_b.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_rect.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/rect.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_misc_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_misc_w.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_op.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/op.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_crate.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/crate.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_stats.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/stats.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/layout_report.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/layout/report.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable-ldpi_icon_auto.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable-ldpi/icon_auto.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_eye.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_pi.xml.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_pi.xml"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_2d_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_2d_w.png"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_glass.bmp.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/glass.bmp"
+    },
+    {
+        "merged": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/build/intermediates/res/merged/debug/drawable_ic_3d_w.png.flat",
+        "source": "/home/appsbee/AndroidStudioProjects/Benchmark1/app/src/main/res/drawable/ic_3d_w.png"
+    }
+]
